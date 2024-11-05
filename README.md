@@ -1,7 +1,7 @@
 #include<stdio.h>
 int area(int);
 int circumference(int);
-it diameter(int);
+int diameter(int);
 int main()
 {
 int r;
