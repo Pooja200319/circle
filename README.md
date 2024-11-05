@@ -16,3 +16,7 @@ int area(int radius)
 {
         return (3.14*r*r);
 }
+int circumference(int radius)
+{
+       return (2*3.14*r);
+}
