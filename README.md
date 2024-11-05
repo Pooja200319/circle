@@ -20,3 +20,7 @@ int circumference(int radius)
 {
        return (2*3.14*r);
 }
+int diameter(int diameter)
+{
+       return(2*r);
+}
